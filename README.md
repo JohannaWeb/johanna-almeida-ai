@@ -6,6 +6,18 @@
 - Designing trust computation models between agents
 - Experimenting with protocol-level identity systems
 - Documenting distributed system tradeoffs in Project Falcon
+
+## Architecture Snapshot
+
+Project Falcon explores a layered architecture:
+
+Client Layer → Identity Gateway → Event Ingestion →  
+Inference Orchestration → Trust Graph Evaluation
+
+Focus areas:
+- stateless identity verification
+- event-driven processing
+- distributed coordination challenges
   
 **Founder — Project Falcon**  
 Systems builder exploring decentralized AI infrastructure, identity, and distributed intelligence.
