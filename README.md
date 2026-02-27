@@ -1,5 +1,12 @@
 # Johanna Almeida
 
+## Currently Working On
+
+- Exploring decentralized AI inference architectures
+- Designing trust computation models between agents
+- Experimenting with protocol-level identity systems
+- Documenting distributed system tradeoffs in Project Falcon
+  
 **Founder — Project Falcon**  
 Systems builder exploring decentralized AI infrastructure, identity, and distributed intelligence.
 
