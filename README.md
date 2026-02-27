@@ -1,28 +1,33 @@
 # Johanna Almeida
 
+**Founder — Project Falcon**  
+Building experimental AI infrastructure to explore how intelligent systems coordinate at network scale.
+
+AI Systems • Distributed Architecture • Protocol Design • Human–AI Collaboration
+
+---
+
 ## Currently Working On
 
 - Exploring decentralized AI inference architectures
 - Designing trust computation models between agents
 - Experimenting with protocol-level identity systems
-- Documenting distributed system tradeoffs in Project Falcon
+- Documenting distributed system tradeoffs through Project Falcon
+
+---
 
 ## Architecture Snapshot
 
-Project Falcon explores a layered architecture:
+Project Falcon explores a layered systems architecture:
 
 Client Layer → Identity Gateway → Event Ingestion →  
 Inference Orchestration → Trust Graph Evaluation
 
-Focus areas:
-- stateless identity verification
-- event-driven processing
-- distributed coordination challenges
-  
-**Founder — Project Falcon**  
-Systems builder exploring decentralized AI infrastructure, identity, and distributed intelligence.
-
-AI Systems • Distributed Architecture • Protocol Design • Human–AI Collaboration
+**Focus Areas**
+- Stateless identity verification
+- Event-driven processing pipelines
+- Distributed coordination challenges
+- Trust-aware system design
 
 ---
 
@@ -32,13 +37,13 @@ I build experimental systems investigating how AI operates beyond centralized pl
 
 My work focuses on:
 
-- decentralized identity (DID)
-- distributed AI inference architectures
-- trust computation between agents
-- protocol-level system design
-- real-time communication infrastructure
+- Decentralized identity (DID)
+- Distributed AI inference architectures
+- Trust computation between agents
+- Protocol-level system design
+- Real-time communication infrastructure
 
-I am particularly interested in how intelligent systems coordinate safely at network scale.
+I am particularly interested in how intelligent systems can coordinate safely and reliably at global scale.
 
 ---
 
@@ -46,16 +51,16 @@ I am particularly interested in how intelligent systems coordinate safely at net
 
 **Project Falcon** is an experimental platform exploring sovereign real-time communication combined with decentralized AI execution.
 
-Key ideas explored:
+Key areas explored:
 
 - Zero-trust identity verification
-- Distributed inference mesh
+- Distributed inference mesh concepts
 - Trust graph computation between agents
 - Protocol-driven system architecture
-- Real-time event ingestion
+- Real-time event ingestion pipelines
 
 Repository:  
-https://github.com/JohannaWeb/ProjectFalcon
+👉 https://github.com/JohannaWeb/ProjectFalcon
 
 ---
 
@@ -63,21 +68,22 @@ https://github.com/JohannaWeb/ProjectFalcon
 
 This repository documents ongoing architectural exploration and system experiments.
 
-- 📄 [Research Notes](./research/RESEARCH_NOTES.md)
+📄 [Research Notes](./research/RESEARCH_NOTES.md)
 
 Topics include:
 
-- distributed system tradeoffs
-- inference coordination challenges
-- identity as infrastructure
-- trust propagation models
+- Distributed system tradeoffs
+- Inference coordination challenges
+- Identity as infrastructure
+- Trust propagation models
 
 ---
 
 ## Curriculum Vitae
 
-Different contexts require different narratives.  
-CV versions are maintained here:
+Different contexts require different narratives.
+
+Available versions:
 
 - AI Systems CV
 - Founder CV
@@ -89,18 +95,18 @@ See: `/cv`
 
 ## Technical Areas
 
-**Backend & Infrastructure**
+### Backend & Infrastructure
 - Java / Spring Boot
 - API design & service architecture
 - Docker & Kubernetes
 
-**Systems Concepts**
+### Systems Concepts
 - Distributed systems
 - Identity protocols
 - Event-driven architectures
 - AI system orchestration
 
-**Frontend**
+### Frontend
 - React
 - Electron
 
@@ -126,7 +132,5 @@ The objective is not only to ship products, but to explore system designs that m
 ## Contact
 
 GitHub: https://github.com/JohannaWeb  
-LinkedIn: https://www.linkedin.com/feed/  
+LinkedIn: https://www.linkedin.com/in/joana-almeida/  
 Email: JoanaAlmeidaDev@outlook.com
-
----
